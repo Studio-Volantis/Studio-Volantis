@@ -18,16 +18,11 @@ Frontend Developer | Graphic Designer
 
 Web Developer and Graphic Designer, designing and building responsive web applications in React/NextJS. I love solving problems with design and code. I love CSS + Tailwind. I enjoy working and networking with other devs and always enjoy collaborating on projects.
 
+* 💻  I use daily: `.sh`, `.php`, `.js`, `.html`, `.css`, `.blade.php`, `.sql`
 * 🌍  I'm based in NC/VA
-* 🖥️  See my portfolio at [Portfolio](http://orincywhyte-portfolio.netlify.app/)
 * ✉️  You can contact me at [Studio-Volantis@proton.me](Studio-Volantis@proton.me)
 * 🚀  I'm currently working on ......
-* 🧠  I'm learning NEXT JS
+* 🧠  I'm learning NEXT JS, Svelte
 * 🤝  I'm open to collaborating on React/Tailwind projects
-* ⚡  I love ......
+* ⚡  I love to create
 
-
-### Skills
-
-
-### Socials
