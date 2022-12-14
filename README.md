@@ -1,5 +1,7 @@
-![OFFICIAL-BC-2](https://user-images.githubusercontent.com/92553207/204335637-1e6df23e-3ccf-4365-9cf8-3f812da4246e.jpg)
+<div align="center">
+  <h1> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>My name is Daniel</h1>
 
+---
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,10 +13,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<center>
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- My name is Daniel</center>
-====================================================================================================================================
+</div>
+
+---
 
 Frontend Developer | Graphic Designer
 -------------------------------------
