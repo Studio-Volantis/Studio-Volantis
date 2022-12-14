@@ -10,6 +10,7 @@
   </a>
 </div>
 </div>
+
 ---
 
 Frontend Developer | Graphic Designer
