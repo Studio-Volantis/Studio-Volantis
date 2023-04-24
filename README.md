@@ -24,5 +24,5 @@ Web Developer and Graphic Designer, designing and building responsive web applic
 * 🚀  I'm currently working on ......
 * 🧠  I'm learning NEXT JS, Svelte
 * 🤝  I'm open to collaborating on React/Tailwind projects
-* ⚡  I love to create
+* ⚡  I love to create educational software systems
 
